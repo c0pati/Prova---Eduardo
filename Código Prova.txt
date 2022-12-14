@@ -1,0 +1,16 @@
+@Entity
+public class Cerveja.java{
+
+  @Nome
+
+  private String nome;
+
+  @Fabricante
+
+  private String fabricante;
+
+  @Tipo
+
+  private Sring tipo;
+
+};
